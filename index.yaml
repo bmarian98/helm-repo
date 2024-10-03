@@ -3,23 +3,23 @@ entries:
   v1.0.0:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-03T13:21:23.153491732Z"
+    created: "2024-10-03T14:08:25.26372374Z"
     description: A Helm chart for Kubernetes
     digest: 3f3257dc7ac6f245010dabab65367176507f82f5b6f29548910e86a26d2786be
     name: v1.0.0
     type: application
     urls:
-    - https://github.com/bmarian98/helm-repo/v1.0.0-1.0.0.tgz
+    - https://bmarian98/helm-repo/app-1.0.0.tgz
     version: 1.0.0
   v2.0.0:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-10-03T13:21:23.153647681Z"
+    created: "2024-10-03T14:08:25.263875437Z"
     description: A Helm chart for Kubernetes
     digest: 1db51cfda40388ba01a67059c30190c9e52e47b72c0f0725be5342b7d4df08b8
     name: v2.0.0
     type: application
     urls:
-    - https://github.com/bmarian98/helm-repo/v2.0.0-2.0.0.tgz
+    - https://bmarian98/helm-repo/app-2.0.0.tgz
     version: 2.0.0
-generated: "2024-10-03T13:21:23.153188321Z"
+generated: "2024-10-03T14:08:25.263436845Z"
